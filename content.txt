@@ -1,1 +1,15 @@
 1.Class and Objects 
+2.Class has data/attribute and func/methods
+   ->Code walkthrough
+   ->attribute get called itself ,methods called maunually
+3.Why Python is called object oriented programming-everything in an python is an obj(Data staructur,data types etc)
+4.Advantages of OOPs concept:
+    ->You can create your own datatypes
+    ->Code Reusability
+    ->Debugging
+    ->easy to colab
+5.End to end project (Chatbook class)
+     ->encapsulation
+     ->getter and setter
+     ->static methods
+    
