@@ -9,7 +9,14 @@
     ->Debugging
     ->easy to colab
 5.End to end project (Chatbook class)
+     ->function(not bound to class and obj) vs method(define inside class and called using obj)
+     ->magic method /dunder method
+     ->self-obj which allow you to access all your attributes
+     ->You can create attributes outside the class as well
+     
      ->encapsulation
-     ->getter and setter
-     ->static methods
+     ->getter and setter->(used to get and set the hidden attributes)
+     ->static methods->(do not require ibj to access it ,no self in req)
+     ->Inheritance
+
     
