@@ -17,6 +17,13 @@
      ->encapsulation
      ->getter and setter->(used to get and set the hidden attributes)
      ->static methods->(do not require ibj to access it ,no self in req)
-     ->Inheritance
+6.Inheritance
+     ->Inheritance code example
+     ->Why inheritance is needed(code reusability , parent has no acccess to child)
+     ->what get inherited?-Constructor ,Non private attributes,Non private methods
+     ->construtor overloading and method overloading
+     ->super keyword(it can only used inside the class, can not access individual attributes/variable , used only inside child class, it inherits full constructor/method)
 
+     ->Types of inheritance 1.Single inheritance | 2.Multilevel |3.Hierarchical |4.Multiple |5.Hybrid
+ 
     
